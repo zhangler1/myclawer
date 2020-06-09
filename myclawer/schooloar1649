@@ -1,0 +1,67 @@
+{
+    "6622": {
+        "学者信息": {},
+        "经历": {},
+        "职称": {},
+        "概况": {},
+        "研究": {},
+        "Type": {
+            "期刊论文": "18",
+            "会议论文": "18",
+            "科研项目": "2",
+            "专利": "1"
+        },
+        "SubjectId": {
+            "工程学": "7",
+            "计算机科学": "3",
+            "物理学": "1"
+        },
+        "Index": {
+            "EI": "23",
+            "Scopus": "17",
+            "SCIE": "14",
+            "CPCI-S": "10",
+            "PKU": "1",
+            "ISTIC": "1",
+            "CSCD": "1"
+        },
+        "ImportantType": {},
+        "ScientificSource": {
+            "企事业单位委托科技项目": "1",
+            "国家自然科学基金项目": "1"
+        },
+        "JournalCondition": {
+            "IEEE TRANSACTIONS ON IMAGE PROCESSING": "2",
+            "NEUROCOMPUTING": "2",
+            "PATTERN RECOGNITION": "2",
+            "IEEE Access": "2",
+            "INFORMATION SCIENCES": "1",
+            "IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE": "1",
+            "INTERNATIONAL JOURNAL OF COMMUNICATION SYSTEMS": "1",
+            "电子学报": "1",
+            "OPTICS COMMUNICATIONS": "1",
+            "IEEE SIGNAL PROCESSING LETTERS": "1",
+            "MATHEMATICAL PROBLEMS IN ENGINEERING": "1",
+            "计算机应用研究": "1",
+            "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY": "1"
+        },
+        "Year": {
+            "2019": "3",
+            "2018": "5",
+            "2017": "10",
+            "2016": "4",
+            "2015": "5",
+            "2014": "5",
+            "2013": "6"
+        },
+        "KeywordConditionScholarContribue": {},
+        "Fulltext": {
+            "有全文": "0",
+            "无全文": "39"
+        },
+        "Language": {
+            "英文": "34",
+            "中文": "5"
+        }
+    }
+}
